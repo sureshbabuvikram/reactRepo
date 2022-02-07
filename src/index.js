@@ -112,7 +112,7 @@ class Reactcss extends React.Component
     const Mystyle={color:"red",fontFamily:"Arial"};
     return <div>
     <h1 style={{color:"blue",textAlign:"center"}}>INFINIJITH TECHNOLOGIES</h1>  
-     <h2 style={Mystyle}>COO</h2>
+     <h2 style={Mystyle}>CEO</h2>
 
     </div>
   }
