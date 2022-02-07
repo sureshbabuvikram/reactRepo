@@ -104,7 +104,7 @@ ReactDOM.render(<Lifecycle />,document.getElementById('root'));*/
   } 
 ReactDOM.render(<Eventhand />,document.getElementById('root'));*/
 
-//React CSS
+//React CSS 
 class Reactcss extends React.Component
 {
   render()
@@ -112,7 +112,7 @@ class Reactcss extends React.Component
     const Mystyle={color:"red",fontFamily:"Arial"};
     return <div>
     <h1 style={{color:"blue",textAlign:"center"}}>INFINIJITH TECHNOLOGIES</h1>  
-     <h2 style={Mystyle}>CEO</h2>
+     <h2 style={Mystyle}>COO</h2>
 
     </div>
   }
